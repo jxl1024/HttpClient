@@ -1,0 +1,15 @@
+E:\practice\HttpClient\HttpClientDemo\HttpClientDemo\obj\Debug\netcoreapp3.1\HttpClientDemo.AssemblyInfoInputs.cache
+E:\practice\HttpClient\HttpClientDemo\HttpClientDemo\obj\Debug\netcoreapp3.1\HttpClientDemo.AssemblyInfo.cs
+E:\practice\HttpClient\HttpClientDemo\HttpClientDemo\obj\Debug\netcoreapp3.1\HttpClientDemo.csproj.CoreCompileInputs.cache
+E:\practice\HttpClient\HttpClientDemo\HttpClientDemo\bin\Debug\netcoreapp3.1\HttpClientDemo.exe
+E:\practice\HttpClient\HttpClientDemo\HttpClientDemo\bin\Debug\netcoreapp3.1\HttpClientDemo.deps.json
+E:\practice\HttpClient\HttpClientDemo\HttpClientDemo\bin\Debug\netcoreapp3.1\HttpClientDemo.runtimeconfig.json
+E:\practice\HttpClient\HttpClientDemo\HttpClientDemo\bin\Debug\netcoreapp3.1\HttpClientDemo.runtimeconfig.dev.json
+E:\practice\HttpClient\HttpClientDemo\HttpClientDemo\bin\Debug\netcoreapp3.1\HttpClientDemo.dll
+E:\practice\HttpClient\HttpClientDemo\HttpClientDemo\bin\Debug\netcoreapp3.1\HttpClientDemo.pdb
+E:\practice\HttpClient\HttpClientDemo\HttpClientDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\practice\HttpClient\HttpClientDemo\HttpClientDemo\obj\Debug\netcoreapp3.1\HttpClientDemo.csproj.CopyComplete
+E:\practice\HttpClient\HttpClientDemo\HttpClientDemo\obj\Debug\netcoreapp3.1\HttpClientDemo.dll
+E:\practice\HttpClient\HttpClientDemo\HttpClientDemo\obj\Debug\netcoreapp3.1\HttpClientDemo.pdb
+E:\practice\HttpClient\HttpClientDemo\HttpClientDemo\obj\Debug\netcoreapp3.1\HttpClientDemo.genruntimeconfig.cache
+E:\practice\HttpClient\HttpClientDemo\HttpClientDemo\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
